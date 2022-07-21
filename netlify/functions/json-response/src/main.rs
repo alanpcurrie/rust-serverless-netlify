@@ -1,4 +1,3 @@
-KB
 use aws_lambda_events::{
     apigw::ApiGatewayProxyResponse, encodings::Body,
 };
